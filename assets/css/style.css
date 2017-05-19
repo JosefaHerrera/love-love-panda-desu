@@ -15,10 +15,41 @@ font-family: 'Raleway', sans-serif;
 	background-color: #F78E69;
 	color :white;
 }
+.panda-su{
+	margin: 50px;
+	text-align: right;
+	 
+}
+
+.texto{
+	margin :0 auto;
+	background-color:#F78E69;
+	width:500px;
+	height: 300px;
+	padding:20px;
+	text-align: center;
+	border-width: 20px;
+	border-left: :500px; 
+	border-color: #ABE188;
+	border-style: solid;
+
+
+
+};
+
+#pandaUno{
+	background:url('../img/uno.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0; 
+}
+
+
 
 /* Footer */
 footer{
 	background-color: #F78E69;
+	background:#F78E69;
 	padding: 20px 30px;
 	color: white;
 
