@@ -6,3 +6,20 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Raleway', sans-serif;
+	background-color: #F78E69;
+	color :white;
+}
+
+/* Footer */
+footer{
+	background-color: #F78E69;
+	padding: 20px 30px;
+	color: white;
+
+}
